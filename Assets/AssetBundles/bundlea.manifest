@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4186504731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2aa6133fe4edb1e71b3a4e43078e8c86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9dea23ffc7e96552740e12d1ee5309d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Res/gam8.png
+Dependencies: []
