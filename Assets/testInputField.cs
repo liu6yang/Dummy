@@ -12,6 +12,8 @@ public class testInputField : MonoBehaviour {
         StartCoroutine("ToEnd", input);
         //input.MoveTextEnd(false);
         //input.caretPosition = input.text.Length;
+        Camera cam = new Camera();
+        cam.clearFlags = CameraClearFlags.Depth;
     }
 
     IEnumerator ToEnd(InputField input)
